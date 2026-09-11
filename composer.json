@@ -1,5 +1,5 @@
 {
-    "name": "FLGOLANG/douyinpay",
+    "name": "flgolang/douyinpay",
     "description": "douyinpay php sdk",
     "type": "library",
     "require": {
